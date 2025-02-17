@@ -1,0 +1,5 @@
+docx
+bs4
+Spire.Doc
+ pathlib
+flet
